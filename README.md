@@ -4,10 +4,11 @@ Strip ansi colors, attributes from a string.
 
 ## Install
 
-Install with [npm](https://www.npmjs.com/) or [pnpm]()
+Install with [npm](https://www.npmjs.com/) or [pnpm](https://pnpm.js.org/)
 
 ```sh
 $ npm i better-strip-color
+$ pnpm i better-strip-color
 ```
 
 ## Usage
