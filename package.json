@@ -1,0 +1,56 @@
+{
+  "name": "better-strip-color",
+  "version": "1.0.0",
+  "description": "Strip ANSI colors, attributes from a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/ceda_ei/better-strip-color.git"
+  },
+  "keywords": [
+    "ansi",
+    "chalk",
+    "cli",
+    "codes",
+    "color",
+    "colors",
+    "colour",
+    "colours",
+    "command",
+    "command-line",
+    "console",
+    "escape",
+    "format",
+    "formatting",
+    "log",
+    "logging",
+    "match",
+    "pattern",
+    "re",
+    "regex",
+    "regexp",
+    "regular-expression",
+    "remove",
+    "rgb",
+    "shell",
+    "string",
+    "strip",
+    "style",
+    "styles",
+    "styling",
+    "terminal",
+    "text",
+    "trim",
+    "tty",
+    "xterm"
+  ],
+  "author": "Ceda EI",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://gitlab.com/ceda_ei/better-strip-color/issues"
+  },
+  "homepage": "https://gitlab.com/ceda_ei/better-strip-color"
+}
